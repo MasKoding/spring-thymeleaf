@@ -2,15 +2,14 @@
 
 ## Table of contents
 - [Getting Started](#penjelasan)
-- [Tutorial](#tutorial)
+- [Installation](#tutorial)
 - [Usage](#usage)
 
-## Penjelasan <a name = "penjelasan"></a>
+## Getting Started <a name = "penjelasan"></a>
 
     Spring Security with Thymeleaf and ajax for call API
     Upload images use file
-    Download and Export to Excel (.xlsx)
-## Tutorial <a name = "tutorial"></a>
+## Installation <a name = "tutorial"></a>
 
 - step 1
 ````
